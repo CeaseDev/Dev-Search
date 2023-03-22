@@ -11,6 +11,7 @@ HTML
 CSS
 JavaScript
 GitHub API
+
 Getting Started
 Clone the repository using git clone https://github.com/CeaseDev/Dev-Search.git
 Open the index.html file in your preferred web browser.
